@@ -1,4 +1,4 @@
-// my solutions for the article at kukuruku.co/hub/javascript/an-isteresting-task-for-an-interview-currying-and-partial-applicationof-a-function
+// my solutions for the article at http://kukuruku.co/hub/javascript/an-interesting-task-for-an-interview-currying-and-partial-applicationof-a-function
 
 function add0(a, b) {
   return a + b;
